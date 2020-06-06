@@ -1,0 +1,33 @@
+
+#nome {
+height: 5vh;
+    }
+    
+#idade {
+height: 5vh;
+}
+  
+
+#aviso{
+margin-top:2vh;
+height: 5vh;
+font-weight: bold;
+}
+
+#situação {
+color: rgb(243, 51, 67);
+font-size: 3vw;
+}
+
+.ajuste {
+height: 110vh;
+background-color: rgb(199, 211, 211);
+border: 6px solid rgb(105, 94, 94);
+}
+    
+.ajuste h1 {
+font-family: fantasy;
+color: brown;
+border-bottom: 2px solid black;
+}
+    
