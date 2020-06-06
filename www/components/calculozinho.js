@@ -1,7 +1,7 @@
 $(document).on('click', '#calculo', function() {
  var a = parseInt($('#idade').val()); 
 
-if (a > 18) {
+if (a >= 18) {
   $('#aviso').val("Você é +18 anos");
   $('#situação').html("<img src='lib/velho.png' heigth='300vh' width='300vh'>");
 }else {
